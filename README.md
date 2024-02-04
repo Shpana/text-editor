@@ -24,25 +24,25 @@ vendor/premake5/premake5.exe {gmake, vs2019, vs2022...}
 - Вставка строки после $n$-ой строки
 
 <p align="center">
-      <img src="/promo/insert-text.gif" width=50%/>
+      <img width=65% src="/promo/insert-text.gif"/>
 </p>
 
 - Вставка одной после $n$-ой строки, но еще и повторить $k$ раз
 
 <p align="center">
-  <img src="/promo/repeat-line.gif" width=50%/>
+  <img width=65% src="/promo/repeat-line.gif"/>
 </p>
 
 - Вставка нескольких строк, начиная с $n$-ой
 
 <p align="center">
-  <img src="promo/insert-many-lines.gif" width=50%/>
+  <img width=65% src="promo/insert-many-lines.gif"/>
 </p>
 
 - удаление $n$-ой строки
 
 <p align="center">
-  <img src="promo/remove-line.gif" width=50%/>
+  <img width=65% src="promo/remove-line.gif"/>
 </p>
 
 #### Простая модификация строк
@@ -50,17 +50,17 @@ vendor/premake5/premake5.exe {gmake, vs2019, vs2022...}
 - Вставить подстроку в $n$-ую строку, начиная с $m$-ой позиции
 
 <p align="center">
-  <img src="promo/insert-substring.gif" width=50%/>
+  <img width=65% src="promo/insert-substring.gif"/>
 </p>
 
 - Заменить $m$-ый символ в $n$-ой строке
 
 <p align="center">
-  <img src="promo/replace-symbol.gif" width=50%/>
+  <img width=65% src="promo/replace-symbol.gif"/>
 </p>
 
 - Найти подстроку и заменить начиная с $n_1$-ой строки, заканчивая $n_2$-ой строкой
 
 <p align="center">
-  <img src="promo/find-and-replace.gif" width=50%/>
+  <img width=65% src="promo/find-and-replace.gif"/>
 </p>
