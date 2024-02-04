@@ -19,15 +19,48 @@ vendor/premake5/premake5.exe {gmake, vs2019, vs2022...}
 
 ### Реализованные команды
 
-##### Вставка строк
+#### Вставка строк
 
-- вставка одной строки после $n$-ой <p align="center"><img src="promo/insert-text.gif" width=50%/></p>
-- вставка одной строки после $n$-ой, но еще повторить $k$ раз <p align="center"><img src="promo/repeat-line.gif" width=50%/></p>
-- вставка нескольких строк, начиная с $n$-ой <p align="center"><img src="promo/insert-many-lines.gif" width=50%/></p>
-- удаление строки по номеру $n$ <p align="center"><img src="promo/remove-line.gif" width=50%/></p>
+- Вставка строки после $n$-ой строки
 
-##### Простая модификация строк
+<p align="center">
+      <img src="/promo/insert-text.gif" width=50%/>
+</p>
 
-- вставить подстроку в $n$-ую строку, начиная с $m$-ой позиции <p align="center"><img src="promo/insert-substring.gif" width=50%/></p>
-- заменить $m$-ый символ в $n$-ой строке <p align="center"><img src="promo/replace-symbol.gif" width=50%/></p>
-- найти подстроку и заменить <p align="center"><img src="promo/find-and-replace.gif" width=50%/></p>
+- Вставка одной после $n$-ой строки, но еще и повторить $k$ раз
+
+<p align="center">
+  <img src="/promo/repeat-line.gif" width=50%/>
+</p>
+
+- Вставка нескольких строк, начиная с $n$-ой
+
+<p align="center">
+  <img src="promo/insert-many-lines.gif" width=50%/>
+</p>
+
+- удаление $n$-ой строки
+
+<p align="center">
+  <img src="promo/remove-line.gif" width=50%/>
+</p>
+
+#### Простая модификация строк
+
+- Вставить подстроку в $n$-ую строку, начиная с $m$-ой позиции
+
+<p align="center">
+  <img src="promo/insert-substring.gif" width=50%/>
+</p>
+
+- Заменить $m$-ый символ в $n$-ой строке
+
+<p align="center">
+  <img src="promo/replace-symbol.gif" width=50%/>
+</p>
+
+- Найти подстроку и заменить начиная с $n_1$-ой строки, заканчивая $n_2$-ой строкой
+
+<p align="center">
+  <img src="promo/find-and-replace.gif" width=50%/>
+</p>
