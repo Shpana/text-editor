@@ -12,6 +12,8 @@ project "text-editor"
     }
 
     includedirs {
+        "src/",
+
         for_include["imgui"],
         for_include["imgui-sfml"],
         for_include["sfml"],
@@ -22,6 +24,7 @@ project "text-editor"
         "imgui-sfml",
 
         "opengl32",
+        "winmm",
         "freetype",
     }
 
